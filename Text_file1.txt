@@ -1,3 +1,4 @@
 File name		:	Text_file1
 Name			:	Pratibha Dewangan
 Purpose		:	to understand the concept of gitbash
+Add			:	Add command (modification)
