@@ -1,3 +1,0 @@
-File Name	 : textfile1
-Created By	 : Pratibha Dewangan
-Purpose    	 : To understand the conecpt of local repository
